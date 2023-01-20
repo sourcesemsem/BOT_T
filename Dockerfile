@@ -1,7 +1,7 @@
 FROM rogerpq/Hack-Termks0:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/sourcesemsem/BOT_T.git /root/jepthon 
+RUN git clone https://github.com/rogerpq/Hack-Termks0.git /root/jepthon 
 #working directory 
 WORKDIR /root/Hack-Termks0
 
